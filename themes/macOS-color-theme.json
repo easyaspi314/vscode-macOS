@@ -1,0 +1,212 @@
+{
+	"tokenColors": [
+		{
+			"settings": {
+				"background": "#FFFFFF",
+				"foreground": "#000000"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#008E00"
+			}
+		},
+		{
+			"name": "Preprocessor Statements",
+			"scope": [
+				"meta.preprocessor",
+				"keyword.control.import"
+			],
+			"settings": {
+				"foreground": "#7D4726"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#DF0002"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#3A00DC"
+			}
+		},
+		{
+			"name": "Built-in constant",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#C800A4"
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": [
+				"constant.character",
+				"constant.other"
+			],
+			"settings": {
+				"foreground": "#275A5E"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": [
+				"variable.language",
+				"variable.other"
+			],
+			"settings": {
+				"foreground": "#C800A4"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#C800A4"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"foreground": "#C900A4"
+			}
+		},
+		{
+			"name": "Class name",
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#438288"
+			}
+		},
+		{
+			"name": "Inherited class",
+			"scope": "entity.other.inherited-class",
+			"settings": {}
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"settings": {}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#790EAD"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#450084"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"settings": {
+				"foreground": "#450084"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"foreground": "#450084"
+			}
+		},
+		{
+			"name": "Library class/type",
+			"scope": [
+				"support.type",
+				"support.class"
+			],
+			"settings": {
+				"foreground": "#790EAD"
+			}
+		},
+		{
+			"name": "Library variable",
+			"scope": "support.other.variable",
+			"settings": {
+				"foreground": "#790EAD"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {}
+		}
+	],
+	"colors": {
+		"editor.background": "#FFFFFF",
+		"editorCursor.foreground": "#000000",
+		"editor.foreground": "#000000",
+		"editorWhitespace.foreground": "#BFBFBF",
+		"editor.lineHighlightBackground": "#00000012",
+		"editor.selectionBackground": "#B5D5FF", 
+		"foreground": "#000",
+        "activityBar.background": "#ececec",
+        "panel.border": "#a3a3a3",
+        "panel.background": "#0000",
+        "notification.background": "#ECECEC",
+        "notification.foreground": "#000",
+        "notification.buttonBackground": "#3788F7",
+        "notification.errorForeground": "#fff",
+        "activityBar.foreground": "#696969",
+        "editorGutter.background": "#f5f5f5",
+        "editorLineNumber.foreground": "#808080",
+        "editorGroupHeader.tabsBackground": "#c9c9c9",
+        "tab.inactiveBackground": "#0000001A",
+        "tab.inactiveForeground": "#545454",
+        "tab.unfocusedActiveForeground": "#545454",
+        "tab.activeBackground": "#0000",
+        "tab.activeForeground": "#0E0E0E",
+        "tab.border": "#00000034",
+        "editorGroupHeader.tabsBorder": "#00000034",
+        "editorGroup.border": "#00000034",
+        "sideBar.border": "#a3a3a3",
+        "sideBar.background": "#fff",
+        "activityBar.border": "#a3a3a3",
+        "statusBar.border": "#a3a3a3",
+        "statusBar.background": "#fff",
+		"statusBar.foreground": "#000",
+		"statusBar.debuggingBackground": "#3788F7",
+		"statusBar.debuggingForeground": "#fff",
+		"statusBar.noFolderBackground": "#fff",
+		"statusBar.noFolderForeground": "#808080",
+        "activityBarBadge.background": "#E62A29",
+        "badge.background": "#E62A29",
+        "input.border": "#0000001A",
+        "inputOption.activeBorder": "#408fff80",
+        "focusBorder": "#408fff80",
+        "progressBar.background": "#0F5EF5",
+        "list.hoverBackground": "#0000",
+        "list.activeSelectionBackground": "#0A51D0",
+        "list.inactiveSelectionBackground": "#00000034",
+        "sideBarSectionHeader.background": "#f4f4f4",
+        "sideBarSectionHeader.foreground": "#1C1C1C",
+        "editor.inactiveSelectionBackground": "#00000034",
+        "button.background": "#3788F7",
+        "button.foreground": "#fff",
+		"terminal.background": "#fff",
+		"titleBar.activeBackground": "#c9c9c9",
+		"titleBar.activeForeground": "#292929",
+		"titleBar.inactiveBackground": "#f4f4f4",
+		"titleBar.inactiveForeground": "#A3A3A3"
+	},
+	"name": "macOS"
+}

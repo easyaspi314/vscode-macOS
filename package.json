@@ -1,0 +1,22 @@
+{
+    "name": "macos-theme",
+    "displayName": "macOS Theme",
+    "description": "A macOS-styled theme, based off the light theme and the Xcode_default TextMate theme.",
+    "version": "0.0.1",
+    "publisher": "easyaspi314",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "macOS",
+                "uiTheme": "vs",
+                "path": "./themes/macOS-color-theme.json"
+            }
+        ]
+    }
+}
