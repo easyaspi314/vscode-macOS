@@ -1,5 +1,7 @@
 # macOS Theme for Visual Studio Code
 
+GitHub source: https://github.com/easyaspi314/vscode-macOS
+
 This is a macOS theme for Visual Studio Code. It is based off of the
 [Xcode_default TextMate theme](https://github.com/crmne/xcode-default.tmtheme). 
 
@@ -33,15 +35,7 @@ Press Command+Shift+G, then paste this:
 Now drag to select all of the SFMono-* fonts, double-click them, then select
 Install to add SF Mono to your usable fonts. (You can also use it in other apps as well).
 
-<!--## This is the README for your extension "macos-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## License
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**-->
+My workspace colors are released under the MIT license, but as for the syntax theme, no license was
+provided.

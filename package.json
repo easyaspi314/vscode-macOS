@@ -4,6 +4,11 @@
     "description": "A macOS-styled theme, based off the light theme and the Xcode_default TextMate theme.",
     "version": "0.0.1",
     "publisher": "easyaspi314",
+    "homepage": "https://github.com/easyaspi314/vscode-macOS",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/easyaspi314/vscode-macOS.git"
+    },
     "engines": {
         "vscode": "^1.18.0"
     },
