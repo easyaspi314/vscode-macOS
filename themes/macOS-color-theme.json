@@ -158,14 +158,19 @@
 	 */
 	  
 	"colors": {
+		// Main text color
 		"foreground": "#000",
+		// Activity bar
 		"activityBar.background": "#ececec",
 		"activityBar.border": "#a3a3a3",
 		"activityBar.foreground": "#696969",
+		// Badges (little bubbles)
 		"activityBarBadge.background": "#E62A29",
 		"badge.background": "#E62A29",
+		// Button
 		"button.foreground": "#fff",
 		"button.background": "#3788F7",
+		// Editor
 		"editor.foreground": "#000",		
 		"editor.background": "#fff",
 		"editor.inactiveSelectionBackground": "#00000034",
@@ -173,29 +178,34 @@
 		"editor.selectionBackground": "#B5D5FF",
 		"editorCursor.foreground": "#000",
 		"editorGroup.border": "#00000034",
-		"editorGroupHeader.tabsBackground": "#d0d0d0",
-		"editorGroupHeader.tabsBorder": "#00000034",
 		"editorGroupHeader.noTabsBackground": "#d0d0d0",
 		"editorGutter.background": "#f5f5f5",
 		"editorLineNumber.foreground": "#808080",
 		"editorWhitespace.foreground": "#BFBFBF",
+		// Textboxes
 		"focusBorder": "#408fff80",
 		"input.border": "#0000001A",
 		"inputOption.activeBorder": "#408fff80",
+		// Lists
 		"list.activeSelectionBackground": "#0A51D0",
 		"list.hoverBackground": "#0000",
 		"list.inactiveSelectionBackground": "#00000034",
+		// Notifications
 		"notification.background": "#ECECEC",
 		"notification.buttonBackground": "#3788F7",
 		"notification.errorForeground": "#fff",
 		"notification.foreground": "#000",
+		// Panels
 		"panel.background": "#fff",
 		"panel.border": "#a3a3a3",
+		// Progress bar
 		"progressBar.background": "#0F5EF5",
+		// Sidebar
 		"sideBar.background": "#fff",
 		"sideBar.border": "#a3a3a3",
 		"sideBarSectionHeader.foreground": "#1C1C1C",
 		"sideBarSectionHeader.background": "#f4f4f4",
+		// Status bar
 		"statusBar.border": "#a3a3a3",
 		"statusBar.background": "#fff",
 		"statusBar.foreground": "#000",
@@ -203,6 +213,9 @@
 		"statusBar.debuggingForeground": "#fff",
 		"statusBar.noFolderBackground": "#fff",
 		"statusBar.noFolderForeground": "#808080",
+		// Tabs
+		"editorGroupHeader.tabsBackground": "#d0d0d0",
+		"editorGroupHeader.tabsBorder": "#00000034",
 		"tab.activeBackground": "#0000",
 		"tab.activeForeground": "#0E0E0E",
 		"tab.border": "#00000034",
@@ -232,10 +245,15 @@
 		"terminalCursor.foreground": "#7F7F7F",
 		// Broken?
 		//"terminal.selectionBackground": "#A4CDFF",
+		// Title bar (macOS)
 		"titleBar.activeBackground": "#d0d0d0",
 		"titleBar.activeForeground": "#292929",
 		"titleBar.inactiveBackground": "#f4f4f4",
-		"titleBar.inactiveForeground": "#A3A3A3"
+		"titleBar.inactiveForeground": "#A3A3A3",
+		// Links. This is -webkit-link color from Safari.
+		"textLink.foreground": "#1D34EA",
+		"editorLink.activeForeground": "#1D34EA",
+		"textLink.activeForeground": "#1D34EA"
 	},
 	"name": "macOS"
 }

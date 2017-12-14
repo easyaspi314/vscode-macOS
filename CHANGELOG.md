@@ -3,6 +3,13 @@ All notable changes to the "macos-theme" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.0.3
+- Added a screenshot make a *certain someone*'s point moot. 😉
+- Link colors from Safari
+- Some code comments
+- Added a basic Markdown theme (see README.md) 
+- Updated README.md
+
 ## 0.0.2
 - Slightly lightened the titlebar/tabs bar.
 - Added support for Zen Mode.
