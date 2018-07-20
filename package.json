@@ -22,6 +22,9 @@
                 "uiTheme": "vs",
                 "path": "./themes/macOS-color-theme.json"
             }
+        ],
+        "markdown.previewStyles": [
+            "./markdown.css"
         ]
     }
 }

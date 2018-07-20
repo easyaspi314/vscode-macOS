@@ -14,13 +14,7 @@ For best results, add the following to your User Settings:
     // Tab close button on the left
     "workbench.editor.tabCloseButton": "left",
     // Remove icons on the tabs
-    "workbench.editor.showIcons": false,
-    // Basic theme for Markdown preview 
-    // This doesn't seem to work for the extension gallery.
-    "markdown.styles": [
-     "https://rawgit.com/easyaspi314/vscode-macOS/master/markdown.css"
-    ]
-}
+    "workbench.editor.showIcons": false
 ```
 If you are on macOS, you should also add this:
 ```js
